@@ -4,7 +4,10 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
-
+/*
+ *  UCF COP3330 Summer 2021 Assignment 2 Solution
+ *  Copyright 2021 Keondez Robinson
+ */
 public class EmployeeRemoval
 {
     private List<String> employeeNames = new ArrayList<>();
